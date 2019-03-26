@@ -1,5 +1,5 @@
-create database b09lr7qjdqxfnu42;
-use b09lr7qjdqxfnu42;
+create database burgers_db;
+use burgers_db;
 
 create table burgers (
 id int auto_increment not null,
