@@ -1,5 +1,5 @@
 # SequelizedBurger
 
-The sequelized version! It works great, but the Heroku deployment is driving me insane. 
+The sequelized version! It's basically the same thing, but this uses Sequelize instead of the orm page, which I commented out. The Heroku link which now works (thanks Daniel!), is below: 
 
-I'll continue to work on this deployment, but if you want to clone and run for yourself after changing the password portion, it should run fine. 
+https://rocky-sands-97004.herokuapp.com/
